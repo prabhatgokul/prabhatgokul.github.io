@@ -2,3 +2,8 @@ body {
 	zoom: 4;
 	zoom: 400%;
 }
+
+@media only screen and (orientation: lanscape) {
+	zoom: 2;
+	zoom: 200%;
+}
