@@ -3,6 +3,10 @@ body {
 	zoom: 400%;
 }
 
+.annotate {
+	font-size: 200%;
+}
+
 @media screen and (orientation: lanscape) {
 	body {
 		zoom: 2;
