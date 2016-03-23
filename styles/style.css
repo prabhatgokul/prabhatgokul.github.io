@@ -1,19 +1,15 @@
 body {
-	zoom: 4;
-	zoom: 400%;
+	zoom: 3;
+	zoom: 300%;
 }
 
 .annotate {
-	font-size: 200%;
+	font-size: 300%;
 }
 
 @media screen and (orientation: lanscape) {
 	body {
 		zoom: 2;
 		zoom: 200%;
-	}
-	
-	.annotate {
-		font-size: 200%;
 	}
 }
