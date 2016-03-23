@@ -8,10 +8,6 @@ body {
 		zoom: 2;
 		zoom: 200%;
 	}
-	
-	.annotate {
-		font-size: 200%;
-	}
 }
 
 @media screen and (min-width: 800px) {
