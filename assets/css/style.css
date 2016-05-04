@@ -48,7 +48,7 @@ body, html{
 /* Link style
 ---------------------------------------------------------*/
 a {
-    color: #68c3a3;
+    color: #E88D0C;
 }
 a,
 a > * {
@@ -146,7 +146,7 @@ h6 {
 }
 
 .form-control:focus {
-    border-color: #68c3a3;
+    border-color: #E88D0C;
     box-shadow: none;
 }
 
@@ -234,7 +234,7 @@ h6 {
 .btn-default.focus, 
 .btn-default:active, 
 .btn-default.active{
-    color: #68c3a3;
+    color: #E88D0C;
     background-color: #fff;
     border-color: #fff;
 }
@@ -280,7 +280,7 @@ ul.list-check li{
 ul.list-check li::before {
     content: "\f00c";
     font-family: fontawesome;
-    color: #68c3a3;
+    color: #E88D0C;
     margin-right: 10px;
 }
 
@@ -361,10 +361,10 @@ ul.list-check li::before {
 	font-size: 60px;
 	line-height: 80px;
 	margin-bottom: 16px;
-	color: #52b3d9;
+	color: #E88D0C;
 }
 .intro h1 span{
-	color: #68c3a3;
+	color: #FFFD0D;
 }
 .intro p{
 	color: #f7f7f7;
@@ -424,7 +424,7 @@ SOCIAL ICON
 }
 
 .social-icons a i:hover::after{
-    background: #68c3a3;
+    background: #E88D0C;
     border: 1px solid transparent;
     z-index: 0;
 }
@@ -475,7 +475,7 @@ SOCIAL ICON
     visibility: hidden;
     opacity:0;
     border: 1px solid #ddd;
-    border-top: 2px solid #68c3a3;
+    border-top: 2px solid #E88D0C;
     border-radius: 0;
     border-bottom: 3px double #ddd;
     background-color: #FFFFFF;
@@ -526,7 +526,7 @@ SOCIAL ICON
 .navbar-custom .navbar-nav > li.active > a {
     background: none;
     outline: 0;
-    color: #68c3a3;
+    color: #E88D0C;
 }
 
 .navbar-custom .navbar-brand {
@@ -658,7 +658,7 @@ SOCIAL ICON
     border: 1px solid #fff;
 }
 .video-intro a:hover {
-    color: #68c3a3;
+    color: #E88D0C;
     background-color: #fff;
     border: 1px solid transparent;
 }
@@ -879,7 +879,7 @@ Resume Timeline
 }
 
 .timeline>li .timeline-content:hover {
-    background: #68c3a3;
+    background: #E88D0C;
     color: #fff;
 }
 
@@ -900,7 +900,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li .timeline-panel:hover::before {
-    border-left: 12px solid #68c3a3;
+    border-left: 12px solid #E88D0C;
 }
 
 .timeline>li.timeline-inverted .timeline-panel::before {
@@ -912,7 +912,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li.timeline-inverted .timeline-panel:hover::before {
-    border-right: 12px solid #68c3a3;
+    border-right: 12px solid #E88D0C;
     border-left: 0;
 }
 
@@ -934,7 +934,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li .timeline-panel:hover::after {
-    border-left: 12px solid #68c3a3;
+    border-left: 12px solid #E88D0C;
 }
 
 .timeline>li.timeline-inverted .timeline-panel::after {
@@ -947,7 +947,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li.timeline-inverted .timeline-panel:hover::after {
-    border-right: 12px solid #68c3a3;
+    border-right: 12px solid #E88D0C;
     border-left: 0;
 }
 
@@ -1006,7 +1006,7 @@ Resume Timeline
 }
 
 .progress-bar {
-    background-color: #68c3a3;
+    background-color: #FFFD0D;
 }
 .progress-bar span{
     position: absolute;
@@ -1117,7 +1117,7 @@ Resume Timeline
 
 
 #filter li a {
-    color: #68c3a3;
+    color: #E88D0C;
     display: block;
     text-transform: uppercase;
     padding: 0 15px;
@@ -1127,7 +1127,7 @@ Resume Timeline
 #filter li a.active,
 #filter li a:hover {
     position: relative;
-    background: #68c3a3;
+    background: #E88D0C;
     color: #fff;
     border-bottom: 3px solid rgba(0, 0, 0, 0.15);
 }
@@ -1184,7 +1184,7 @@ Resume Timeline
 
 .links a i{
     position: relative;
-    color: #68c3a3;
+    color: #E88D0C;
     font-size: 16px;
     margin: 0 13px;
     z-index: 100;
@@ -1199,7 +1199,7 @@ Resume Timeline
     top: -7px;
     width: 30px;
     height: 30px;
-    border: 1px solid #68c3a3;
+    border: 1px solid #E88D0C
     z-index: -1;
     border-radius: 3px;
     -webkit-transform: rotate(45deg);
@@ -1209,14 +1209,14 @@ Resume Timeline
             transform: rotate(45deg);
 }
 .links a:hover i::after {
-    background-color: #68c3a3;
+    background-color: #E88D0C;
 }
 
 .portfolio-info {
     position: absolute;
     bottom: -100%;
     left: 0;
-    background-color: #68c3a3;
+    background-color: #E88D0C;
     color: #fff;
     height: 45px;
     width: 100%;
@@ -1326,7 +1326,7 @@ Resume Timeline
     top: -10px;
     width: 40px;
     height: 40px;
-    background-color: #68c3a3;
+    background-color: #E88D0C;
     z-index: -1;
     border-radius: 3px;
     -webkit-transform: rotate(45deg);
@@ -1378,7 +1378,7 @@ Resume Timeline
     color: #282828;
 }
 .entry-title a:hover{
-    color: #68c3a3;
+    color: #E88D0C;
 }
 .entry-meta {
     color: #afafaf;
@@ -1395,7 +1395,7 @@ Resume Timeline
     font-weight: 400;
 }
 .entry-meta ul li a:hover{
-    color: #68c3a3;
+    color: #E88D0C;
 }
 
 .blog-more {
@@ -1437,17 +1437,17 @@ Icon for all respective meta
 
 /* === Hire Section === */
 .hire-section {
-    background: url(../../assets/images/hire-bg.jpg) no-repeat top center #68C3A3;
+    background: url(../../assets/images/hire-bg.jpg) no-repeat top center #E88D0C;
     background-attachment: fixed;
     background-size: cover;
     color: #fff;  
 }
 .hire-section-bg {
     padding: 110px 0;
-    background: -webkit-linear-gradient(bottom, #68C3A3, rgba(104, 195, 163, 0.7)); /*Safari 5.1-6*/
-    background: -o-linear-gradient(top, #68C3A3, rgba(104, 195, 163, 0.7)); /*Opera 11.1-12*/
-    background: -moz-linear-gradient(top, #68C3A3, rgba(104, 195, 163, 0.7)); /*Fx 3.6-15*/
-    background: linear-gradient(to top, #68C3A3, rgba(104, 195, 163, 0.7)); /*Standard*/
+    background: -webkit-linear-gradient(bottom, #E88D0C, rgba(104, 195, 163, 0.7)); /*Safari 5.1-6*/
+    background: -o-linear-gradient(top, #E88D0C, rgba(104, 195, 163, 0.7)); /*Opera 11.1-12*/
+    background: -moz-linear-gradient(top, #E88D0C, rgba(104, 195, 163, 0.7)); /*Fx 3.6-15*/
+    background: linear-gradient(to top, #E88D0C, rgba(104, 195, 163, 0.7)); /*Standard*/
 }
 
 .hire-section h2 {
@@ -1537,7 +1537,7 @@ Icon for all respective meta
 }
 
 .scroll-up a {
-	background-color: #68c3a3;
+	background-color: #E88D0C;
 	display: block;
 	width: 28px;
 	height: 28px;
